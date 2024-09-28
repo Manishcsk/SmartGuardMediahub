@@ -1,1 +1,2 @@
 # SmartGuardMediahub
+This assignment targets to create a clever media participant gadget managed via voice commands. It integrates security and safety functions which include a door digicam, fire signals, and a notification system that activates an emergency buzzer. The challenge involves an aggregate of hardware (IoT sensors, Arduino uno, actuators, digital camera) and software program (media participant interface, cloud notifications).
